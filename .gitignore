@@ -1,0 +1,4 @@
+# Regenerable, local-only
+scripts/.fonts/
+scripts/.preview/
+__pycache__/
